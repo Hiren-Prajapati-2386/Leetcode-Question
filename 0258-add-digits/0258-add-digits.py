@@ -3,18 +3,10 @@ class Solution:
 
     def addDigits(self, num: int) -> int:
 
-        def findsum(x):
-            if(x < 10):
-                return x
+        if num == 0:
+            return 0
 
-            sum = 0
-            while(x != 0):
-                sum +=  x%10
-                x = x//10
-
-            return findsum(sum)
-        
-        return findsum(num)
+        return 1 + (num - 1)%9
 
 
         
