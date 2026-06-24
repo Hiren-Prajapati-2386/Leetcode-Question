@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0258-add-digits) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
