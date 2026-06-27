@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1189-maximum-number-of-balloons) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0001-two-sum) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
