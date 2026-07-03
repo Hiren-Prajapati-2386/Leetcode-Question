@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0989-add-to-array-form-of-integer) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
