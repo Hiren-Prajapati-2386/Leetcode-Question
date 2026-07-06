@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0989-add-to-array-form-of-integer) |
+| [1288-remove-covered-intervals](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1301-number-of-paths-with-max-score) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
