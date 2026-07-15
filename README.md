@@ -220,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2685-count-the-number-of-complete-components) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
