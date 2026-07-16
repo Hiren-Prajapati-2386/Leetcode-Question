@@ -1,31 +1,17 @@
 class Solution:
     def findWords(self, words: List[str]) -> List[str]:
 
+        row1 = set("qwertyuiop")
+        row2 = set("asdfghjkl")
+        row3 = set("zxcvbnm")
+        
         output = []
-        
-
         for word in words:
-            lower = word.lower()
-
-            first = 0
-            second = 0
-            third = 0
-
-            for ch in lower:
-                if(ch in "qwertyuiop"):
-                    first += 1
-                elif(ch in "asdfghjkl"):
-                    second += 1
-                elif(ch in "zxcvbnm"):
-                    third += 1
-
-            if(first == len(lower) or second == len(lower) or third == len(lower)):
+            
+            word_set = set(word.lower())
+            
+            
+            if word_set.issubset(row1) or word_set.issubset(row2) or word_set.issubset(row3):
                 output.append(word)
-
+                
         return output
-
-
-
-
-
-        
