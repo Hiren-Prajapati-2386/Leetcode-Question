@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0500-keyboard-row) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0349-intersection-of-two-arrays) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0977-squares-of-a-sorted-array) |
