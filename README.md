@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0500-keyboard-row) |
+| [0643-maximum-average-subarray-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0832-flipping-an-image](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0989-add-to-array-form-of-integer) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Breadth-First Search
 |  |
