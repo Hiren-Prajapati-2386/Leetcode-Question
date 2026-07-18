@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0989-add-to-array-form-of-integer) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3658-gcd-of-odd-and-even-sums) |
