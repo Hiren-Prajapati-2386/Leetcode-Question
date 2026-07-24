@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0326-power-of-three) |
 | [0989-add-to-array-form-of-integer](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0989-add-to-array-form-of-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3312-sorted-gcd-pair-queries) |
@@ -293,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
