@@ -1,0 +1,15 @@
+class Solution:
+
+    def canBeEqual(self, s1: str, s2: str) -> bool:
+
+        # if even indices are okey
+        even_ok = (s1[0] == s2[0] and s1[2] == s2[2]) or (s1[0] == s2[2] and s1[2] == s2[0])
+
+        # if odd indices are okey
+        odd_ok = (s1[1] == s2[1] and s1[3] == s2[3]) or (s1[1] == s2[3] and s1[3] == s2[1])
+
+        # then both string is same without any opration i can say it
+        return even_ok and odd_ok
+
+
+        
