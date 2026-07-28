@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0326-power-of-three) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
