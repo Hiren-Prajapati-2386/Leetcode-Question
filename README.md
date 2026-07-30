@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3499-maximize-active-section-with-trade-i) |
