@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0619-biggest-single-number) |
 ## Combinatorics
 |  |
 | ------- |
