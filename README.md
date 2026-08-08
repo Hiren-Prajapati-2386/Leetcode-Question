@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0268-missing-number) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0258-add-digits) |
