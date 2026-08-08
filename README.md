@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0486-predict-the-winner) |
 ## Counting Sort
@@ -378,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
