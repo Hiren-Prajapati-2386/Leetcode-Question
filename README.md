@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0349-intersection-of-two-arrays) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0283-move-zeroes) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0628-maximum-product-of-three-numbers) |
