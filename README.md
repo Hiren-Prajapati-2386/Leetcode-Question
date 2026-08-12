@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0209-minimum-size-subarray-sum) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1140-stone-game-ii) |
