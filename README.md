@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1406-stone-game-iii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1406-stone-game-iii) |
 | [1518-water-bottles](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1518-water-bottles) |
+| [1563-stone-game-v](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
