@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1927-sum-game](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1927-sum-game) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1406-stone-game-iii) |
 | [1518-water-bottles](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1518-water-bottles) |
 | [1563-stone-game-v](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
