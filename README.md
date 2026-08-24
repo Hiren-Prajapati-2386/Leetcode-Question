@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1406-stone-game-iii) |
 | [1518-water-bottles](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1518-water-bottles) |
 | [1563-stone-game-v](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -411,17 +415,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1872-stone-game-viii) |
 ## Bracket Sequences
 |  |
 | ------- |
