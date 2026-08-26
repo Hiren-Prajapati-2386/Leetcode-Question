@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1927-sum-game](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1927-sum-game) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Breadth-First Search
