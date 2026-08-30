@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0326-power-of-three) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0877-stone-game) |
@@ -446,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0021-merge-two-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
