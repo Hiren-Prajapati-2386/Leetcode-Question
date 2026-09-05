@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0067-add-binary) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0486-predict-the-winner) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Memoization
