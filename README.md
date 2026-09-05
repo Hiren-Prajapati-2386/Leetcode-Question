@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0125-valid-palindrome) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Memoization
