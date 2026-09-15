@@ -4,21 +4,44 @@
 #         self.val = x
 #         self.next = None
 
+# class Solution:
+#     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
+
+#         # thies solution is brut force take O(n) extra space so we know best solution is Floyd’s Cycle-Finding Algorithm
+#         seen = set()
+
+#         point = head
+
+#         while point is not None:
+            
+#             if point in seen:
+#                 return point
+
+#             seen.add(point)
+
+#             point = point.next
+
+
+#         return None
+
+
 class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
 
-        seen = set()
+        fast = head
+        slow = head
 
-        point = head
+        while fast is not None and fast.next is not None:
 
-        while point is not None:
-            
-            if point in seen:
-                return point
+            fast = fast.next.next
+            slow = slow.next
 
-            seen.add(point)
+            if fast == slow:
+                slow = head
+                while(slow != fast):
+                    fast = fast.next
+                    slow = slow.next
 
-            point = point.next
-
+                return slow
 
         return None
