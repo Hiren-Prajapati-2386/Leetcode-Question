@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2685-count-the-number-of-complete-components) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -501,10 +503,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
