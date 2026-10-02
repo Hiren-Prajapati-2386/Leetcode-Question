@@ -4,26 +4,53 @@
 #         self.val = val
 #         self.next = next
 class Solution:
+
+    
+
     def isPalindrome(self, head: ListNode | None) -> bool:
+
+        # first find middle so we can reverse half part 
+        # fast and slow approch
+
+        fast = head
+        slow = head
+
+        while fast.next and fast.next.next:
+
+            slow = slow.next
+            fast = fast.next.next
+
+
+        def reverse(point: ListNode):
+            privNode = None
+            while point:
+                nextNode = point.next
+                point.next = privNode
+                privNode = point
+                point = nextNode
+
+            return privNode
+
         
-        # bruteForce method space O(n) and time also  O(n)
+        # now reverse second part from slow.next
+        newhead = reverse(slow.next)
 
-        valList = []
+        # travels second and first part and compare palidrom or not
+        first = head
+        second = newhead
 
-        point = head
-
-        while point:
-            valList.append(point.val)
-            point = point.next
-
-        left = 0
-        right = len(valList)-1
-
-        while left < right:
-            if valList[left] != valList[right]:
+        while second:
+            if first.val != second.val:
                 return False
-            left += 1
-            right -= 1
+            first = first.next
+            second = second.next
+
+        # again reverse so at end we get linklist same as first without no change
+        reverse(newhead)
 
         return True
+
+
+
+
         
