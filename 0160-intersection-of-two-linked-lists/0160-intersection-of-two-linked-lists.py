@@ -7,19 +7,26 @@
 class Solution:
     def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
 
-        seen = set()
-        point = headA
+        if not headA or not headB:
+            return None
 
-        while point is not None:
-            seen.add(point)
-            point = point.next
+        pA = headA
+        pB = headB
 
-        point2 = headB
 
-        while point2 is not None:
-            if point2 in seen:
-                return point2
-            point2 = point2.next
+        while pA is not pB:
 
-        return None
+            pA = pA.next
+            pB = pB.next
+
+            if pA is pB:
+                return pA
+
+
+            if pA == None:
+                pA = headB
+            if pB == None:
+                pB = headA
+
+        return pA
         
