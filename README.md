@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0067-add-binary) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0022-generate-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -526,4 +529,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0142-linked-list-cycle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
