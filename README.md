@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0345-reverse-vowels-of-a-string) |
 | [0500-keyboard-row](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0856-score-of-parentheses](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0917-reverse-only-letters) |
 | [0940-distinct-subsequences-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0234-palindrome-linked-list) |
+| [0856-score-of-parentheses](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0856-score-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Trie
 |  |
