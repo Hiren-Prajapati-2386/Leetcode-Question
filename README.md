@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0226-invert-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0226-invert-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2685-count-the-number-of-complete-components) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0226-invert-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0226-invert-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
