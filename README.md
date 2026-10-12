@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
