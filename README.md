@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1472-design-browser-history](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1472-design-browser-history) |
 | [1563-stone-game-v](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1872-stone-game-viii) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1472-design-browser-history](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1472-design-browser-history) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1472-design-browser-history) |
 ## Memoization
 |  |
 | ------- |
@@ -542,4 +545,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0022-generate-parentheses) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
