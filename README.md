@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2685-count-the-number-of-complete-components) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -584,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1472-design-browser-history) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
