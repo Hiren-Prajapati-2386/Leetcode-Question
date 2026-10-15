@@ -7,39 +7,20 @@
 class Solution:
     def isSymmetric(self, root: TreeNode | None) -> bool:
 
-        left = []
-        right = []
+        if root is None:
+            return True
 
-        def preorderleft(root,arr):
+        def isMirror(t1 : TreeNode, t2 : TreeNode):
 
-            if root is None:
-                arr.append(None)
-                return
+            if t1 is None and t2 is None:
+                return True
+            if t1 is None or t2 is None:
+                return False
+            if t1.val != t2.val:
+                return False
 
-            arr.append(root.val)
-            preorderleft(root.left,arr)
-            preorderleft(root.right,arr)
+            return isMirror(t1.left,t2.right) and isMirror(t1.right,t2.left)
 
-        def preorderright(root,arr):
-
-            if root is None:
-                arr.append(None)
-                return
-
-            arr.append(root.val)
-            preorderright(root.right,arr)
-            preorderright(root.left,arr)
-
-
-        preorderleft(root.left,left)
-        preorderright(root.right,right)
-
-        print(left)
-        print(right)
-
-        return left == right
-
-
-
+        return isMirror(root.left,root.right)
 
         
