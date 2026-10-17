@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3620-network-recovery-pathways](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
