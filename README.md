@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1075-project-employees-i) |
+| [1084-sales-analysis-iii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1084-sales-analysis-iii) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1517-find-users-with-valid-e-mails) |
 ## Combinatorics
 |  |
