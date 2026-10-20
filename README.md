@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0169-majority-element) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0070-climbing-stairs) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1301-number-of-paths-with-max-score) |
