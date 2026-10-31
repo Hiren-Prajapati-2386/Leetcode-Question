@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0989-add-to-array-form-of-integer) |
 | [1140-stone-game-ii](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1301-number-of-paths-with-max-score) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0226-invert-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0832-flipping-an-image) |
+| [1254-number-of-closed-islands](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -451,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0543-diameter-of-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2685-count-the-number-of-complete-components) |
