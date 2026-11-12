@@ -15,7 +15,7 @@ class Solution:
         fast = head
         slow = head
 
-        while fast.next and fast.next.next:
+        while fast and fast.next:
 
             slow = slow.next
             fast = fast.next.next
@@ -32,8 +32,8 @@ class Solution:
             return privNode
 
         
-        # now reverse second part from slow.next
-        newhead = reverse(slow.next)
+        # now reverse second part from slow
+        newhead = reverse(slow)
 
         # travels second and first part and compare palidrom or not
         first = head
