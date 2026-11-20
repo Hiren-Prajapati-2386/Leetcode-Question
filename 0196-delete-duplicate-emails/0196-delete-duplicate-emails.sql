@@ -1,6 +1,10 @@
-/* Write your T-SQL query statement below */
-delete from person
-where id not in 
-(select min(id) 
-from person
-group by email);
+# Write your MySQL query statement below
+
+with Output as (
+    select * ,
+    dense_rank() over(partition by email order by id asc) as rn
+    from Person
+)
+
+delete from Person
+where id in (select id from Output where rn > 1)
