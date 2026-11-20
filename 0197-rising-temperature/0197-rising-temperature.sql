@@ -1,6 +1,4 @@
-
-
-select A.id from weather as A
-inner join weather as B
-on datediff(A.recordDate,B.recordDate) = 1
-where A.temperature > B.temperature;
+select a.id from Weather as a
+join Weather as b
+on datediff(a.recordDate,b.recordDate) = 1
+where a.temperature > b.temperature
