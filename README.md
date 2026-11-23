@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0500-keyboard-row) |
+| [0705-design-hashset](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0705-design-hashset) |
 | [1189-maximum-number-of-balloons](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0643-maximum-average-subarray-i) |
+| [0705-design-hashset](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0705-design-hashset) |
 | [0832-flipping-an-image](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0977-squares-of-a-sorted-array) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1472-design-browser-history) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -647,4 +651,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Hiren-Prajapati-2386/Leetcode-Question/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
