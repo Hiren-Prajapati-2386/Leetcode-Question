@@ -25,31 +25,31 @@ class Solution:
                 prevNode = point
                 point = NextNode
 
-
-        # temp node at head
+        
         temp = head
-
         while temp:
-            kNode = findKthNode(temp,k)
-            if kNode is None:
-                if prevNode:
-                    prevNode.next = temp
-                break
+            k_node = findKthNode(temp,k)
 
-            NextNode = kNode.next
-            kNode.next = None
+            if k_node is None:
+                if prev:
+                    prev.next = temp
+                return head
+
+            nextNode = k_node.next
+            k_node.next = None
 
             reverseLinkList(temp)
 
-            if(temp == head):
-                head = kNode
+            if temp == head:
+                head = k_node
             else:
-                prevNode.next = kNode
-
-            prevNode = temp
-            temp = NextNode
+                prev.next = k_node
+            
+            prev = temp
+            temp = nextNode
 
         return head
+
 
 
 
